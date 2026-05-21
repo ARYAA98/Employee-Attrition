@@ -155,6 +155,3 @@ Top features by importance score — note all scores are close, confirming no do
 ---
 
 
-## 📄 License
-
-This project is for educational purposes as part of an ICT Academy Kerala assignment.
