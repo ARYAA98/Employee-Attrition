@@ -62,7 +62,7 @@ Defined the attrition problem in business terms — cost of turnover, impact on 
 
 ### 3. Exploratory Data Analysis
 
-Key findings from EDA — all verified directly from the data:
+Key findings from EDA :
 
 | Feature | What the Data Shows |
 |---|---|
@@ -76,7 +76,7 @@ Key findings from EDA — all verified directly from the data:
 | **Absenteeism** | Mean difference of only 0.67 days between groups — very weak signal |
 | **Correlations** | Maximum correlation with attrition is 0.056 (Training Hours) — all features are weak predictors |
 
-> **Key finding:** This dataset does not follow the commonly assumed attrition patterns. No single feature strongly separates leavers from stayers, which directly impacted model performance.
+
 
 ### 4. Data Preprocessing
 
